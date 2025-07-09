@@ -1,10 +1,9 @@
 # Librefox
 
-Librefox is a customized firefox project which includes different preferences that respect user privacy as much as possible. We use preferences from betterfox and cachyOS without breaking anything.
+Librefox is a fork of firefox which includes different preferences that respect user privacy as much as possible without, possibly, breaking anything.
 
 ## Notable Changes
-
-- Sane defaults
-- DuckDuckGO out of the box and other \
-privacy-respecting search engines
+- DuckDuckGO search engine out of the box
 - Auto install ublock origin
+- Librefox branding
+- Preferences set from betterfox, librewolf and CachyOS
